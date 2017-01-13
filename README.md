@@ -1,5 +1,7 @@
 # CSS3 'Stretchy'
 
+Demo page (https://henderstack.github.io/stretchy/dist/) <https://henderstack.github.io/stretchy/dist/>
+
 A 'rather simple,' pure CSS rotating Mesh example.
 
 There's really nothing to it, aside from CSS.  No JavaScript was abused for the purposes of this litle experiment.
