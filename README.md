@@ -1,6 +1,6 @@
 # CSS3 'Stretchy'
 
-Demo page (https://henderstack.github.io/stretchy/dist/) <https://henderstack.github.io/stretchy/dist/>
+Demo page: <https://henderstack.github.io/stretchy/dist/>
 
 A 'rather simple,' pure CSS rotating Mesh example.
 
