@@ -36,7 +36,7 @@ gulp.task('watch', function(){
         start: true,
         reloadPage: 'index.html'
     })
-    gulp.watch(paths.haml + '*.pug', ['pug:watch']),
+    gulp.watch(paths.pug + '*.pug', ['pug:watch'])
     gulp.watch(paths.style_sass + '*.scss', ['sass:watch'])
 });
 
